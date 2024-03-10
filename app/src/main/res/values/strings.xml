@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">agolobokov1_s_application</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg">Отображать мое местороложение</string>
+  <string name="lbl_x1">x1</string>
+  <string name="lbl_user3">User</string>
+  <string name="lbl_user2">Привет, User!</string>
+  <string name="lbl4">Станция </string>
+  <string name="lbl5">Привет, </string>
+  <string name="lbl2">Пароль:</string>
+  <string name="lbl3">Авторизоваться</string>
+  <string name="msg_22_1">22 декабря, в 11:20</string>
+  <string name="msg4">Техническая поддержка:</string>
+  <string name="msg3">Отображать последние новости</string>
+  <string name="msg2">Уведомлять меня о новом запуске</string>
+  <string name="msg7">Сегодня состоялся запуск рокеты на станции Земля-1</string>
+  <string name="msg6">Ты запустил ракету </string>
+  <string name="msg5">Сбросить настройки</string>
+  <string name="lbl_user">Логин: User|</string>
+  <string name="lbl8">Выйти</string>
+  <string name="lbl9">Ночь</string>
+  <string name="lbl_support_fox_ru">support.fox.ru</string>
+  <string name="lbl6">!</string>
+  <string name="lbl7">Сделать снимок</string>
+  <string name="lbl10">Портрет</string>
+  <string name="lbl11">Фото</string>
+  <string name="lbl">Настройки</string>
+  <string name="lbl12">Видео</string>
+  <string name="lbl13">Еще</string>
+</resources>
